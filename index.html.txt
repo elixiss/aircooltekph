@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AirCooltek – Home</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <nav class="navbar">
+        <img src="logo.png" class="logo">
+        <ul>
+            <li><a class="active" href="index.html">Home</a></li>
+            <li><a href="services.html">Services</a></li>
+            <li><a href="about.html">Company</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+</header>
+
+<section class="hero">
+    <h1>Reliable Cooling. Trusted Service.</h1>
+    <p>Professional Air-Conditioning Installation • Cleaning • Repair</p>
+</section>
+
+<section class="features">
+    <div class="feature-box">Installation</div>
+    <div class="feature-box">Cleaning</div>
+    <div class="feature-box">Repair</div>
+</section>
+
+<footer>
+    © 2024 AirCooltek Refrigeration & Air-Conditioning
+</footer>
+
+</body>
+</html>
